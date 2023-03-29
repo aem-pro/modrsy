@@ -1,0 +1,22 @@
+{
+  "name": "منصة مدرسي",
+  "short_name": "مدرسي",
+  "description": "منصة مدرسي - نخبة من المدرسين المتميزين",
+  "id": "981ceb1f-22ef-43db-8a4b-b0b11f4d0e3a",
+  "icons": [
+    {
+      "src": "icons/icon-32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "display": "fullscreen",
+  "theme_color": "#246ac7",
+  "background_color": "#246ac7"
+}
